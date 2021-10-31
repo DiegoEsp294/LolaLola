@@ -1,0 +1,70 @@
+header{
+  margin: 10px auto;
+  width: 1000px;
+}
+
+button[type="button"] {
+  background: rgb(255, 157, 44);
+  color: aliceblue;
+  margin: 10px;
+  border: rgb(2, 2, 2);
+  font-size: 20px;
+  font-family: sans-serif; 
+}
+
+
+button[type="button"]:hover{
+  background: rgb(201, 127, 17);
+  color: aliceblue; 
+  
+  
+}
+
+button[type="button"]:active{
+  color: rgb(247, 243, 243);
+}
+
+.color{
+  background: rgb(247, 247, 247);
+}
+
+.width{
+  width: 30%;
+}
+
+.buttonRopa{
+  background: rgb(255, 255, 255);
+  width: 100%;
+  height: 10%;
+  color: rgb(58, 48, 48);
+  box-shadow: 1px 1px orange;
+  border-radius: 2px;
+}
+
+.tabla4{
+  background: rgb(253, 253, 253);
+  width: 95%;
+  margin: 0 auto; 
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding: 5px;
+  box-shadow: 3px 3px beige;
+  border-radius: 3px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  
+}
+
+.tablaRopa{
+  background: rgb(255, 255, 255);
+  width: 95%;
+  margin: 0 auto; 
+  margin-top: 1px;
+  margin-bottom: 1px;
+  padding: 1px;
+  box-shadow: 3px 3px beige;
+  border-radius: 3px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  
+}

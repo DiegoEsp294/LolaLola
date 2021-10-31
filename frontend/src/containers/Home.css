@@ -1,0 +1,56 @@
+.ButtonRegister {
+  background: rgb(151, 187, 151);
+}
+
+.dataTables_wrapper{
+  overflow:hidden;
+}
+
+.buttonNext{
+  float:right;
+}
+
+.absolute {
+  width: 5%;
+  height: 10%;
+  background-color: rgb(240, 199, 220);
+  position: absolute;
+  bottom: 10px;
+  right: 70px;
+}
+
+.relative {
+  width: 5%;
+  height: 10%;
+  background-color: rgb(240, 199, 220);
+  position: relative;
+  bottom: 10px;
+  left: 70px;
+}
+
+.buttonImg{
+  background-color:white;
+  border-color: rgb(172, 172, 185);
+  border: 1px solid rgb(240, 231, 231); /* Green */
+}
+
+.tabla1{
+  background: rgb(255, 191, 118);
+  width: 80%;
+  margin: 5 auto; 
+  margin-top: 0px;
+  margin-bottom: 3px;
+  padding: 5px;
+  box-shadow: 3px 3px beige;
+  border-radius: 3px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  
+}
+
+.hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,35 @@
+footer{
+    background: #F446C8;
+    margin-top: 10px;    
+    margin: 10px auto;
+    width: 1000px;
+    padding: 10px;
+    box-shadow: 5px 10px #B9068B
+}
+
+footer p {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+i{
+    margin: 2px;
+    margin-bottom: 5px;
+    margin-top: -5px;
+    color: white
+}
+
+
+.tabla3{
+    background: rgb(248, 135, 5);;
+    width: 95%;
+    margin: 5 auto; 
+    margin-top: 0px;
+    margin-bottom: 3px;
+    padding: 5px;
+    box-shadow: 3px 3px beige;
+    border-radius: 3px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    
+  }

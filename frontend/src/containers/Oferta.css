@@ -1,0 +1,31 @@
+
+.marco{
+    border: 2px solid #F446C8;
+}
+
+.Con{
+    color: green;
+}
+
+.Sin{
+    color: red;
+}
+
+.table {
+    margin: auto;
+    width: 50% !important; 
+ }
+
+ .tabla1{
+    background: rgb(253, 171, 77);
+    width: 95%;
+    margin: 0 auto; 
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-shadow: 3px 3px beige;
+    border-radius: 3px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    
+  }
